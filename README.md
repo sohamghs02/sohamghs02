@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C++,DSA,Web Development**
 
-- 📫 How to reach me **soham6607@gmail.com**
+- 📫 How to reach me **soham6607@gmail.com** , **https://www.linkedin.com/in/soham-ghosh-626233251/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
