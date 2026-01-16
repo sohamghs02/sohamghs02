@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamghs02&label=Profile%20views&color=0e75b6&style=flat" alt="sohamghs02" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
-- 🔭 I’m currently working on **Depression Prediction Using Machine Learning**
-
-- 🌱 I’m currently learning **C++,DSA,Web Development**
+- 🌱 My working technologies **C++,Java,DSA,Web Development,DBMS,SQL,Selenium,Cucumber,JMeter,TestNG**
 
 - 📫 How to reach me **soham6607@gmail.com** , **https://www.linkedin.com/in/soham-ghosh-626233251/**
 
